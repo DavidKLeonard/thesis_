@@ -1,0 +1,37 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforepartskip }
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Target and Motivation}}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Introduction}}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.1}Chemistry and Catalysis}{3}{subsection.2.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.2}Homogeneous vs. Heterogeneous Catalysis}{5}{subsection.2.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Copper}{5}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Manganese}{6}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Iron}{7}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Cobalt}{8}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Oxidations}{9}{section.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}C$-$C Single Bond Cleavage}{10}{section.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Applications}{11}{subsection.2.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}Traditional Methods}{12}{subsection.2.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.3}State-of-the-Art}{12}{subsection.2.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Multivariate Optimisation}{14}{section.2.7}%
+\defcounter {refsection}{0}\relax 
+\vspace {\beforebibskip }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{17}{dummy.8}%

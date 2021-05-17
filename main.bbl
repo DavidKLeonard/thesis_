@@ -1,0 +1,2144 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{greenberg:2007}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={Greenberg},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Inc.}%
+    }
+    \strng{namehash}{GA1}
+    \strng{fullhash}{GA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{10}
+    \field{title}{From Alchemy to Chemistry in Picture and Story}
+    \list{location}{1}{%
+      {Hoboken}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{anastas:1998}{book}{}
+    \name{author}{2}{}{%
+      {{hash=APT}{%
+         family={Anastas},
+         familyi={A\bibinitperiod},
+         given={P.\bibnamedelima T.},
+         giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=WJC}{%
+         family={Warner},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{APTWJC1}
+    \strng{fullhash}{APTWJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Green Chemistry: Theory and Practice}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{1998}
+  \endentry
+
+  \entry{vogel:2019}{book}{}
+    \name{author}{2}{}{%
+      {{hash=VA}{%
+         family={Vogel},
+         familyi={V\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MO}{%
+         family={May},
+         familyi={M\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley-VCH Verlag GmbH \& Co. KGaA}%
+    }
+    \strng{namehash}{VAMO1}
+    \strng{fullhash}{VAMO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Industrial Enzyme Applications}
+    \list{location}{1}{%
+      {Weinheim}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{mcgovern:2004}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{3}{}{%
+      {{hash=MPE}{%
+         family={McGovern},
+         familyi={M\bibinitperiod},
+         given={P.\bibnamedelima E.},
+         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPE+1}
+    \strng{fullhash}{MPEZJTJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{17593\bibrangedash 17598}
+    \field{title}{Fermented Beverages of Pre- and Proto-Historic China}
+    \field{volume}{101}
+    \field{journaltitle}{Proc. Natl. Acad. Sci. U.S.A.}
+    \field{year}{2004}
+  \endentry
+
+  \entry{samuel:1996}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SD}{%
+         family={Samuel},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SD1}
+    \strng{fullhash}{SD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{488\bibrangedash 490}
+    \field{title}{Investigation of Ancient Egyptian Baking and Brewing Methods
+  by Correlative Microscopy}
+    \field{volume}{273}
+    \field{journaltitle}{Science}
+    \field{year}{1996}
+  \endentry
+
+  \entry{possehl:1996}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PGL}{%
+         family={Possehl},
+         familyi={P\bibinitperiod},
+         given={G.\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{PGL1}
+    \strng{fullhash}{PGL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Oxford Companion to Archaeology}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{1996}
+  \endentry
+
+  \entry{beller:2012}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BM}{%
+         family={Beller},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Renken},
+         familyi={R\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=vSR}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Santen},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley-VCH Verlag GmbH \& Co. KGaA}%
+    }
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMRAvSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Catalysis: From Principles to Applications}
+    \list{location}{1}{%
+      {Weinheim}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{honkala:2005}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=HK}{%
+         family={Honkala},
+         familyi={H\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HK+1}
+    \strng{fullhash}{HK+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{555\bibrangedash 558}
+    \field{title}{Ammonia Synthesis From First-Principles Calculations}
+    \field{volume}{307}
+    \field{journaltitle}{Science}
+    \field{year}{2005}
+  \endentry
+
+  \entry{smil:1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SV}{%
+         family={Smil},
+         familyi={S\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SV1}
+    \strng{fullhash}{SV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{415}
+    \field{title}{Detonator of the population explosion}
+    \field{volume}{400}
+    \field{journaltitle}{Nature}
+    \field{year}{1999}
+  \endentry
+
+  \entry{nowlin:2010}{book}{}
+    \name{author}{3}{}{%
+      {{hash=NTE}{%
+         family={Nowlin},
+         familyi={N\bibinitperiod},
+         given={T.\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MRI}{%
+         family={Mink},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima I.},
+         giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=KYV}{%
+         family={Kissin},
+         familyi={K\bibinitperiod},
+         given={Y.\bibnamedelima V.},
+         giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Inc.}%
+    }
+    \strng{namehash}{NTE+1}
+    \strng{fullhash}{NTEMRIKYV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{131\bibrangedash 155}
+    \field{title}{Handbook of Transition Metal Polymerization Catalysts}
+    \list{location}{1}{%
+      {Hobokin}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{nobel:2010}{misc}{}
+    \field{labeltitlesource}{title}
+  \field{howpublished}{\url{https://www.nobelprize.org/prizes/chemistry/2010/summary/}}
+    \field{note}{Accessed April 2020}
+    \field{title}{The Nobel Prize in Chemistry 2010}
+  \endentry
+
+  \entry{iupac:2014}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://goldbook.iupac.org}}
+    \field{note}{Accessed April 2021}
+    \field{title}{IUPAC Compendium of Chemical Terminology}
+  \endentry
+
+  \entry{hapke:2020}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HM}{%
+         family={Hapke},
+         familyi={H\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hilt},
+         familyi={H\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley-VCH Verlag GmbH \& Co. KGaA}%
+    }
+    \strng{namehash}{HMHG1}
+    \strng{fullhash}{HMHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Cobalt Catalysis in Organic Synthesis}
+    \list{location}{1}{%
+      {Weinheim}%
+    }
+    \field{year}{2020}
+  \endentry
+
+  \entry{flemming:1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FCA}{%
+         family={Flemming},
+         familyi={F\bibinitperiod},
+         given={C.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TJT}{%
+         family={Trevors},
+         familyi={T\bibinitperiod},
+         given={J.\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FCATJT1}
+    \strng{fullhash}{FCATJT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{143\bibrangedash 158}
+    \field{title}{Copper Toxicity and Chemistry in the Environment: a Review}
+    \field{volume}{44}
+    \field{journaltitle}{Water Air Soil Pollut.}
+    \field{year}{1989}
+  \endentry
+
+  \entry{tishchenko:2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TKI}{%
+         family={Tishchenko},
+         familyi={T\bibinitperiod},
+         given={K.\bibnamedelima I.},
+         giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=BEK}{%
+         family={Beloglazkina},
+         familyi={B\bibinitperiod},
+         given={E.\bibnamedelima K.},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MAG}{%
+         family={Mazhunga},
+         familyi={M\bibinitperiod},
+         given={A.\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=ZNV}{%
+         family={Zyk},
+         familyi={Z\bibinitperiod},
+         given={N.\bibnamedelima V.},
+         giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TKI+1}
+    \strng{fullhash}{TKIBEKMAGZNV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{49\bibrangedash 82}
+    \field{title}{Copper-Containing Enzymes: Site Types and
+  Low-Molecular-Weight Model Compounds}
+    \field{volume}{6}
+    \field{journaltitle}{Rev. J. Chem.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{costa:2014}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CLG}{%
+         family={Costa},
+         familyi={C\bibinitperiod},
+         given={L.\bibnamedelima G.},
+         giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Aschner},
+         familyi={A\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society of Chemistry}%
+    }
+    \strng{namehash}{CLGAM1}
+    \strng{fullhash}{CLGAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Manganese in Health and Disease}
+    \list{location}{1}{%
+      {Cambridge}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{kemmitt:1973}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KRDW}{%
+         family={Kemmitt},
+         familyi={K\bibinitperiod},
+         given={R.\bibnamedelima D.\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pergamon Press}%
+    }
+    \strng{namehash}{KRDW1}
+    \strng{fullhash}{KRDW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Chemistry of Manganese, Technetium and Rhenium}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{1973}
+  \endentry
+
+  \entry{banci:2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Banci},
+         familyi={B\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{169\bibrangedash 201}
+    \field{title}{Metallomics and the Cell}
+    \list{location}{1}{%
+      {Dordrecht}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{williams:2012}{book}{}
+    \name{author}{9}{}{%
+      {{hash=WM}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TGD}{%
+         family={Todd},
+         familyi={T\bibinitperiod},
+         given={G.\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RGD}{%
+         family={Roney},
+         familyi={R\bibinitperiod},
+         given={G.\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Crawford},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Coles},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MPR}{%
+         family={McClure},
+         familyi={M\bibinitperiod},
+         given={P.\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GJD}{%
+         family={Garey},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zaccaria},
+         familyi={Z\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Citra},
+         familyi={C\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {U.\,S. Agency for Toxic Substances}%
+      {Disease Registry}%
+    }
+    \strng{namehash}{WM+1}
+    \strng{fullhash}{WMTGDRGDCJCCMPRGJDZKCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Toxicological Profile for Manganese}
+    \list{location}{1}{%
+      {Atlanta}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{trumbo:2001}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TP}{%
+         family={Trumbo},
+         familyi={T\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=YAA}{%
+         family={Yates},
+         familyi={Y\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schlicker},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Poos},
+         familyi={P\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TP+1}
+    \strng{fullhash}{TPYAASSPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{294\bibrangedash 301}
+    \field{title}{Dietary Reference Intakes: Vitamin A, Vitamin K, Arsenic,
+  Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel,
+  Silicon, Vanadium, and Zinc}
+    \field{volume}{3}
+    \field{journaltitle}{J. Am. Diet. Assoc.}
+    \field{year}{2001}
+  \endentry
+
+  \entry{nicholls:1973}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ND}{%
+         family={Nicholls},
+         familyi={N\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pergamon Press}%
+    }
+    \strng{namehash}{ND1}
+    \strng{fullhash}{ND1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Chemistry of Iron, Cobalt and Nickel}
+    \list{location}{1}{%
+      {Exeter}%
+    }
+    \field{year}{1973}
+  \endentry
+
+  \entry{fuerstner:2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FA}{%
+         family={F\"urstner},
+         familyi={F\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FA1}
+    \strng{fullhash}{FA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{778\bibrangedash 789}
+    \field{title}{Iron Catalysis in Organic Synthesis: A Critical Assessment of
+  What it Takes to Make This Base Metal a Multitasking Champion}
+    \field{volume}{2}
+    \field{journaltitle}{ACS Cent. Sci.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{crundwell:2011}{book}{}
+    \name{author}{5}{}{%
+      {{hash=CFK}{%
+         family={Crundwell},
+         familyi={C\bibinitperiod},
+         given={F.\bibnamedelima K.},
+         giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MMS}{%
+         family={Moats},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RV}{%
+         family={Ramachandran},
+         familyi={R\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RTG}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={T.\bibnamedelima G.},
+         giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DWG}{%
+         family={Davenport},
+         familyi={D\bibinitperiod},
+         given={W.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier Ltd.}%
+    }
+    \strng{namehash}{CFK+1}
+    \strng{fullhash}{CFKMMSRVRTGDWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Extractive Metallurgy of Nickel, Cobalt and Platinum-Group
+  Metals}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{wef:2020}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BPD}{%
+         family={Baumann-Pauly},
+         familyi={B\bibinithyphendelim P\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {World Economic Forum}%
+    }
+    \strng{namehash}{BPD1}
+    \strng{fullhash}{BPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Making Mining Safe and Fair: Artisanal cobalt extraction in
+  the Democratic Republic of the Congo [White paper]}
+    \list{location}{1}{%
+      {Geneva}%
+    }
+    \field{year}{2020}
+  \endentry
+
+  \entry{wang:2016}{article}{}
+    \name{author}{6}{}{%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Cui},
+         familyi={C\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=XZ}{%
+         family={Xing},
+         familyi={X\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=AAM}{%
+         family={Asiri},
+         familyi={A\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ+1}
+    \strng{fullhash}{WJCWLQXZAAMSX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{215\bibrangedash 230}
+    \field{title}{Recent Progress in Cobalt-Based Heterogeneous Catalysts for
+  Electrochemical Water Splitting}
+    \field{volume}{28}
+    \field{journaltitle}{Adv. Mater.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{gao:2016}{article}{}
+    \name{author}{9}{}{%
+      {{hash=GS}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=JX}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GS+1}
+    \strng{fullhash}{GSLYJXSYLQZWLDYJXY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{68\bibrangedash 71}
+    \field{title}{Partially Oxidized Atomic Cobalt Layers for Carbon Dioxide
+  Electroreduction to Liquid Fuel}
+    \field{volume}{529}
+    \field{journaltitle}{Nature}
+    \field{year}{2016}
+  \endentry
+
+  \entry{gavriilidis:2016}{article}{}
+    \name{author}{8}{}{%
+      {{hash=GA}{%
+         family={Gavriilidis},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Constantinou},
+         familyi={C\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hellgardt},
+         familyi={H\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HKKM}{%
+         family={Hii},
+         familyi={H\bibinitperiod},
+         given={K.\bibnamedelima K.\bibnamedelima (M.)},
+         giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+      {{hash=HGJ}{%
+         family={Hutchings},
+         familyi={H\bibinitperiod},
+         given={G.\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BGL}{%
+         family={Brett},
+         familyi={B\bibinitperiod},
+         given={G.\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kuhn},
+         familyi={K\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MSP}{%
+         family={Marsden},
+         familyi={M\bibinitperiod},
+         given={S.\bibnamedelima P.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GA+1}
+    \strng{fullhash}{GACAHKHKKMHGJBGLKSMSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{595\bibrangedash 612}
+    \field{title}{Aerobic Oxidations in Flow: Opportunities for the Fine
+  Chemicals and Pharmaceuticals Industries}
+    \field{volume}{1}
+    \field{journaltitle}{React. Chem. Eng.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{osterberg:2014}{article}{}
+    \name{author}{8}{}{%
+      {{hash=OPM}{%
+         family={Osterberg},
+         familyi={O\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=NJK}{%
+         family={Niemeier},
+         familyi={N\bibinitperiod},
+         given={J.\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WCJ}{%
+         family={Welch},
+         familyi={W\bibinitperiod},
+         given={C.\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HJM}{%
+         family={Hawkins},
+         familyi={H\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MJR}{%
+         family={Martinelli},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=JTE}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={T.\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=RTW}{%
+         family={Root},
+         familyi={R\bibinitperiod},
+         given={T.\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SSS}{%
+         family={Stahl},
+         familyi={S\bibinitperiod},
+         given={S.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OPM+1}
+    \strng{fullhash}{OPMNJKWCJHJMMJRJTERTWSSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1537\bibrangedash 1543}
+    \field{title}{Experimental Limiting Oxygen Concentrations for Nine Organic
+  Solvents at Temperatures and Pressures Relevant to Aerobic Oxidations in the
+  Pharmaceutical Industry}
+    \field{volume}{19}
+    \field{journaltitle}{Org. Process Res. Dev.}
+    \field{year}{2015}
+  \endentry
+
+  \entry{lewis:1987}{book}{}
+    \name{author}{2}{}{%
+      {{hash=LB}{%
+         family={Lewis},
+         familyi={L\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=vEG}{%
+         prefix={von},
+         prefixi={v\bibinitperiod},
+         family={Elbe},
+         familyi={E\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic Press}%
+    }
+    \strng{namehash}{LBvEG1}
+    \strng{fullhash}{LBvEG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{3}
+    \field{pages}{339}
+    \field{title}{Combustion, Flames adn Explosions of Gases}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1987}
+  \endentry
+
+  \entry{brooks:2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BMR}{%
+         family={Brooks},
+         familyi={B\bibinitperiod},
+         given={M.\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CDA}{%
+         family={Crowl},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMRCDA1}
+    \strng{fullhash}{BMRCDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{144\bibrangedash 150}
+    \field{title}{Flammability Envelopes for Methanol, Ethanol, Acetonitrile
+  and Toluene}
+    \field{volume}{20}
+    \field{journaltitle}{J. Loss. Prev. Process Ind.}
+    \field{year}{2007}
+  \endentry
+
+  \entry{zabetakis:1965}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ZMG}{%
+         family={Zabetakis},
+         familyi={Z\bibinitperiod},
+         given={M.\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {U.\,S. Department of the Interior, Bureau of Mines}%
+    }
+    \strng{namehash}{ZMG1}
+    \strng{fullhash}{ZMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Flammability Characteristics of Combustible Gases and Vapors}
+    \list{location}{1}{%
+      {Washington}%
+    }
+    \field{year}{1965}
+  \endentry
+
+  \entry{tomas:2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TRA}{%
+         family={Tom\'as},
+         familyi={T\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bordado},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GJF}{%
+         family={Gomes},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TRA+1}
+    \strng{fullhash}{TRABJCGJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{7421\bibrangedash 7469}
+    \field{title}{\textit{p}-Xylene Oxidation to Terephthalic Acid: A
+  Literature Review Oriented Toward Process Optimization and Development}
+    \field{volume}{113}
+    \field{journaltitle}{Chem. Rev.}
+    \field{year}{2013}
+  \endentry
+
+  \entry{brill:1960}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BW}{%
+         family={Brill},
+         familyi={B\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BW1}
+    \strng{fullhash}{BW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{837\bibrangedash 840}
+    \field{title}{Terephthalic Acid by Single-Stage Oxidation}
+    \field{volume}{52}
+    \field{journaltitle}{Ind. Eng. Chem.}
+    \field{year}{1960}
+  \endentry
+
+  \entry{murai:1993}{article}{}
+    \name{author}{7}{}{%
+      {{hash=MM}{%
+         family={Murai},
+         familyi={M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kakiuchi},
+         familyi={K\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sekine},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Tanaka},
+         familyi={T\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kamatani},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sonoda},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Chatani},
+         familyi={C\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MM+1}
+    \strng{fullhash}{MMKFSSTYKASMCN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{13759\bibrangedash 13769}
+    \field{title}{Efficient Catalytic Addition of Aromatic Carbon--Hydrogen
+  Bonds to Olefins}
+    \field{volume}{366}
+    \field{journaltitle}{Nature}
+    \field{year}{1993}
+  \endentry
+
+  \entry{crabtree:2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CRH}{%
+         family={Crabtree},
+         familyi={C\bibinitperiod},
+         given={R.\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lei},
+         familyi={L\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRHLA1}
+    \strng{fullhash}{CRHLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{8481\bibrangedash 8482}
+    \field{title}{Introduction: CH Activation}
+    \field{volume}{117}
+    \field{journaltitle}{Chem. Rev.}
+    \field{year}{2017}
+  \endentry
+
+  \entry{labinger:2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LJA}{%
+         family={Labinger},
+         familyi={L\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJA1}
+    \strng{fullhash}{LJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{8483\bibrangedash 8496}
+    \field{title}{Platinum-Catalyzed C--H Activation}
+    \field{volume}{117}
+    \field{journaltitle}{Chem. Rev.}
+    \field{year}{2017}
+  \endentry
+
+  \entry{roque:2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RJB}{%
+         family={Roque},
+         familyi={R\bibinitperiod},
+         given={J.\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=KY}{%
+         family={Kuroda},
+         familyi={K\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GLT}{%
+         family={G\"ottemann},
+         familyi={G\bibinitperiod},
+         given={L.\bibnamedelima T.},
+         giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sarpong},
+         familyi={S\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJB+1}
+    \strng{fullhash}{RJBKYGLTSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{171\bibrangedash 174}
+    \field{title}{Deconstructive Fluorination of Cyclic Amines by
+  Carbon--Carbon Cleavage}
+    \field{volume}{361}
+    \field{journaltitle}{Science}
+    \field{year}{2018}
+  \endentry
+
+  \entry{sattler:2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Sattler},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Parkin},
+         familyi={P\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SAPP1}
+    \strng{fullhash}{SAPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{523\bibrangedash 526}
+    \field{title}{Cleaving Carbon--Carbon Bonds by Inserting Tungsten into
+  Unstrained Aromatic Rings}
+    \field{volume}{463}
+    \field{journaltitle}{Nature}
+    \field{year}{2010}
+  \endentry
+
+  \entry{crabtree:2019}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CRH}{%
+         family={Crabtree},
+         familyi={C\bibinitperiod},
+         given={R.\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Inc.}%
+    }
+    \strng{namehash}{CRH1}
+    \strng{fullhash}{CRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{7th}
+    \field{title}{The Organometallic Chemistry of the Transition Metals}
+    \list{location}{1}{%
+      {Hoboken}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{murakami:2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MM}{%
+         family={Murakami},
+         familyi={M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IN}{%
+         family={Ishida},
+         familyi={I\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MMIN1}
+    \strng{fullhash}{MMIN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{13759\bibrangedash 13769}
+    \field{title}{Potential of Metal-Catalyzed C--C Single Bond Cleavage for
+  Organic Synthesis}
+    \field{volume}{42}
+    \field{journaltitle}{J. Am. Chem. Soc.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{saliu:2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SF}{%
+         family={Saliu},
+         familyi={S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=OM}{%
+         family={Orlandi},
+         familyi={O\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bruschi},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SF+1}
+    \strng{fullhash}{SFOMBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{\textit{N}-Aryl Lactams by Regioselective Ozonation of
+  \textit{N}-Aryl Cyclic Amines}
+    \field{volume}{2012}
+    \field{journaltitle}{ISRN Org. Chem.}
+    \field{year}{2012}
+  \endentry
+
+  \entry{suarez-bertoa:2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SBR}{%
+         family={Suarez-Bertoa},
+         familyi={S\bibinithyphendelim B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Saliu},
+         familyi={S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bruschi},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RB}{%
+         family={Rindone},
+         familyi={R\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBR+1}
+    \strng{fullhash}{SBRSFBMRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{8267\bibrangedash 8275}
+    \field{title}{Reaction Products and Mechanism of the Regioselective
+  Oxidation of \textit{N}-Phenylmorpholline by Ozone}
+    \field{volume}{68}
+    \field{journaltitle}{Tetrahedron}
+    \field{year}{2012}
+  \endentry
+
+  \entry{binder:2008}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BCM}{%
+         family={Binder},
+         familyi={B\bibinitperiod},
+         given={C.\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DDD}{%
+         family={Dixon},
+         familyi={D\bibinitperiod},
+         given={D.\bibnamedelima D.},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=AE}{%
+         family={Almaraz},
+         familyi={A\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TMA}{%
+         family={Tius},
+         familyi={T\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Singaram},
+         familyi={S\bibinitperiod},
+         given={B},
+         giveni={B},
+      }}%
+    }
+    \strng{namehash}{BCM+1}
+    \strng{fullhash}{BCMDDDAETMASB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{2764\bibrangedash 2767}
+    \field{title}{A Simple Procedure for C--C Bond Cleavage of Aromatic and
+  Aliphatic Epoxides with Aqueous Sodium Periodate Under Ambient Conditions}
+    \field{volume}{48}
+    \field{journaltitle}{Tetrahedron Lett.}
+    \field{year}{2008}
+  \endentry
+
+  \entry{criegee:1931}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Criegee},
+         familyi={C\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{260\bibrangedash 266}
+    \field{title}{Eine Oxydative Spaltung von Glykolen}
+    \field{volume}{64}
+    \field{journaltitle}{Berichte der Dtsch. Chem. Gesellschaft}
+    \field{year}{1931}
+  \endentry
+
+  \entry{malaprade:1934}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ML}{%
+         family={Malaprade},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML1}
+    \strng{fullhash}{ML1}
+    \field{labelnamesource}{author}
+    \field{pages}{833}
+    \field{volume}{3}
+    \field{journaltitle}{Bull. Soc. Chim. Fr.}
+    \field{year}{1934}
+  \endentry
+
+  \entry{zhou:2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZW}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FW}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=JQ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LYF}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Y.-F.},
+         giveni={Y\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZW+1}
+    \strng{fullhash}{ZWFWJQLYFJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{2542\bibrangedash 2545}
+    \field{title}{Copper-Catalyzed Aerobic Oxidative C--C Bond Cleavage of
+  Unstrained Ketones with Air and Amines}
+    \field{volume}{17}
+    \field{journaltitle}{Org. Lett.}
+    \field{year}{2015}
+  \endentry
+
+  \entry{qin:2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=QC}{%
+         family={Qin},
+         familyi={Q\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QC+1}
+    \strng{fullhash}{QCSYSTSXJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{350\bibrangedash 354}
+    \field{title}{Splitting a Substrate into Three Parts: Cold-Catalyzed
+  Nitrogenation of Alkynes by C--C and C$\equiv$C Bond Cleavage}
+    \field{volume}{55}
+    \field{journaltitle}{Angew. Chem., Int. Ed.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{liu:2017}{article}{}
+    \name{author}{9}{}{%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=QC}{%
+         family={Qin},
+         familyi={Q\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJWXQCLXLXSAZBSSJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{11940\bibrangedash 11944}
+    \field{title}{Oxygenation of Simple Olefins through Selective Allylic C--C
+  Bond Cleavage: A Direct Approach to Cinnamyl Aldehydes}
+    \field{volume}{56}
+    \field{journaltitle}{Angew. Chem., Int. Ed.}
+    \field{year}{2017}
+  \endentry
+
+  \entry{liang:2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LYF}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Y.-F.},
+         giveni={Y\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LYFJN1}
+    \strng{fullhash}{LYFJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1640\bibrangedash 1653}
+    \field{title}{Oxygenation via C--H/C--C Bond Activation with Molecular
+  Oxygen}
+    \field{volume}{50}
+    \field{journaltitle}{Acc. Chem. Res.}
+    \field{year}{2017}
+  \endentry
+
+  \entry{zhao:2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZB}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TH}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SZ}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZB+1}
+    \strng{fullhash}{ZBTHCCJNSZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{995\bibrangedash 999}
+    \field{title}{Photoinduced C--C Bond Cleavage and Oxidation of
+  Cycloketoxime Esters}
+    \field{volume}{36}
+    \field{journaltitle}{Chin. J. Chem.}
+    \field{year}{2018}
+  \endentry
+
+  \entry{liu:2019}{article}{}
+    \name{author}{12}{}{%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=QX}{%
+         family={Qiu},
+         familyi={Q\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=HX}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZC}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=QQ}{%
+         family={Qin},
+         familyi={Q\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJQXHXLXZCWJPJLYZYQQSSJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{71\bibrangedash 77}
+    \field{title}{From Alkylarenes to Anilines via Site-Directed Carbon--Carbon
+  Amination}
+    \field{volume}{11}
+    \field{journaltitle}{Nat. Chem.}
+    \field{year}{2019}
+  \endentry
+
+  \entry{adeli:2019}{article}{}
+    \name{author}{8}{}{%
+      {{hash=AY}{%
+         family={Adeli},
+         familyi={A\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=JY}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZCC}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={C.-C.},
+         giveni={C\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=JN}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AY+1}
+    \strng{fullhash}{AYHKLYJYLJSSZCCJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{2063\bibrangedash 2067}
+    \field{title}{Electrochemically Oxidative C--C Bond Cleavage of Alkylarenes
+  for Anilines Synthesis}
+    \field{volume}{9}
+    \field{journaltitle}{ACS Catal.}
+    \field{year}{2019}
+  \endentry
+
+  \entry{tsang:2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TASK}{%
+         family={Tsang},
+         familyi={T\bibinitperiod},
+         given={A.\bibnamedelima S.-K.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinithyphendelim
+  K\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kapat},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Schoenebeck},
+         familyi={S\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TASK+1}
+    \strng{fullhash}{TASKKASF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{518\bibrangedash 526}
+    \field{title}{Factors That Control C--C Cleavage versus C--H Bond
+  Hydroxylation in Copper-Catalyzed Oxidations of Ketones with O$_2$}
+    \field{volume}{138}
+    \field{journaltitle}{J. Am. Chem. Soc.}
+    \field{year}{2016}
+  \endentry
+
+  \entry{dalvi:2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DVH}{%
+         family={Dalvi},
+         familyi={D\bibinitperiod},
+         given={V.\bibnamedelima H.},
+         giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RPJ}{%
+         family={Rossky},
+         familyi={R\bibinitperiod},
+         given={P.\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DVHRPJ1}
+    \strng{fullhash}{DVHRPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{13603\bibrangedash 13607}
+    \field{title}{Molecular Origins of Fluorocarbon Hydrophobicity}
+    \field{volume}{107}
+    \field{journaltitle}{PNAS}
+    \field{year}{2010}
+  \endentry
+
+  \entry{morimoto:2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MY}{%
+         family={Morimoto},
+         familyi={M\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bunno},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Fujieda},
+         familyi={F\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sugimoto},
+         familyi={S\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Itoh},
+         familyi={I\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MY+1}
+    \strng{fullhash}{MYBSFNSHIS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{5867\bibrangedash 5870}
+    \field{title}{Direct Hydroxylation of Benzene to Phenol Using Hydrogen
+  Peroxide Catalyzed by Nickel Complexes Supported by Pyridylalkylamine
+  Ligands}
+    \field{volume}{137}
+    \field{journaltitle}{J. Am. Chem. Soc.}
+    \field{year}{2015}
+  \endentry
+
+  \entry{zhu:2019}{book}{}
+    \name{author}{4}{}{%
+      {{hash=ZF}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=JJA}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ADW}{%
+         family={Ablin},
+         familyi={A\bibinitperiod},
+         given={D.\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=EGA}{%
+         family={Ernst},
+         familyi={E\bibinitperiod},
+         given={G.\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons, Inc.}%
+    }
+    \strng{namehash}{ZF+1}
+    \strng{fullhash}{ZFJJAADWEGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{1}
+    \field{pages}{21\bibrangedash 22}
+    \field{title}{Efficient Petrochemical Processes: Technology, Design and
+  Operation}
+    \list{location}{1}{%
+      {Hobokin}%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{yan:2020}{article}{}
+    \name{author}{8}{}{%
+      {{hash=YJ}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MQ}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xiang},
+         familyi={X\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YJ+1}
+    \strng{fullhash}{YJMQSXCBSYXJLHHB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{eabd1951}
+    \field{title}{Selective Valorization of Lignin to Phenol by Direct
+  Transformation of C\textsubscript{sp2}$-$C\textsubscript{sp3} and C$-$O
+  Bonds}
+    \field{volume}{6}
+    \field{journaltitle}{Sci. Adv.}
+    \field{year}{2020}
+  \endentry
+
+  \entry{anastas:2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AP}{%
+         family={Anastas},
+         familyi={A\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=EN}{%
+         family={Eghbali},
+         familyi={E\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{APEN1}
+    \strng{fullhash}{APEN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{301\bibrangedash 312}
+    \field{title}{Green Chemistry: Principles and Practice}
+    \field{volume}{39}
+    \field{journaltitle}{Chem. Soc. Rev.}
+    \field{year}{2010}
+  \endentry
+
+  \entry{laird:2002}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LT}{%
+         family={Laird},
+         familyi={L\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LT1}
+    \strng{fullhash}{LT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{337}
+    \field{title}{Design of Experiments (DoE)}
+    \field{volume}{6}
+    \field{journaltitle}{Org. Process Res. Dev.}
+    \field{year}{2002}
+  \endentry
+
+  \entry{taber:2004}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TGP}{%
+         family={Taber},
+         familyi={T\bibinitperiod},
+         given={G.\bibnamedelima P.},
+         giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PDM}{%
+         family={Pfisterer},
+         familyi={P\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CJC}{%
+         family={Colberg},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TGP+1}
+    \strng{fullhash}{TGPPDMCJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{385\bibrangedash 388}
+    \field{title}{A New and Simplified Process for Preparing
+  \textit{N}-[4-(3,4-Dichlorophenyl)-3,4-dihydro-1(2H)-naphthalenylidene]methanamine
+  and a Telescoped Process for the Synthesis of
+  (1\textit{S}-\textit{cis})-4-(3,4-Dichlorophenol)-1,2,3,4-tetrahydro-\textit{N}-methyl-1-naphthalenamine
+  Mandelate: Key Intermediates in the Synthesis of Sertraline Hydrochloride}
+    \field{volume}{8}
+    \field{journaltitle}{Org. Process Res. Dev.}
+    \field{year}{2004}
+  \endentry
+\enddatalist
+\endinput
